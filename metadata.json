@@ -1,0 +1,8 @@
+{
+  "name": "Remix Akadem - Intranet Corporativa de Capacitación y Gestión",
+  "description": "Intranet corporativa integral con roles de usuario, módulos embebidos de Declaraciones Juradas y Certificados, Moodle LMS y Dashboard de Supervisión y Reportería para el Directorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
